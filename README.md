@@ -1,5 +1,6 @@
 Wishlist:
 * Bucket List
+* Personal Mission Statement
 
 My personal website can (or soon will be) accessible by the following domain names:
 jeremy.cool
